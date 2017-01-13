@@ -11,3 +11,7 @@ Ejecute los notebooks de ipython interactivamente en (http://nbviewer.jupyter.or
 
 [07. Introduccion a los Graficos](http://nbviewer.jupyter.org/github/geckolml/CursoPython_Pygame/blob/master/IntroGraficos.ipynb) 
 
+=======
+# Curso de Python
+## Uso de libreria Pygame 
+### Verano ACECOM 2017
