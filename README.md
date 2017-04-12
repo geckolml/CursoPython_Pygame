@@ -13,10 +13,11 @@ Ejecute los notebooks de ipython interactivamente en (http://nbviewer.jupyter.or
 
 [02. Introduccion a las Animaciones](http://nbviewer.jupyter.org/github/geckolml/CursoPython_Pygame/blob/master/2IntroduccionAnimaciones.ipynb) 
 
-[03. Introduccion a los Controladores Gráficos](http://nbviewer.jupyter.org/github/geckolml/CursoPython_Pygame/blob/master/3Controladores Gráficos.ipynb) 
+[03. Introduccion a los Controladores Gráficos](http://nbviewer.jupyter.org/github/geckolml/CursoPython_Pygame/blob/master/3Controladores%20Gr%C3%A1ficos.ipynb) 
 
-[04. Introduccion a Sprites]
-(http://nbviewer.jupyter.org/github/geckolml/CursoPython_Pygame/blob/master/4Sprites.ipynb)
+[04. Introduccion a Sprites](http://nbviewer.jupyter.org/github/geckolml/CursoPython_Pygame/blob/master/4Sprites.ipynb)
+
+[05. Proyectos](http://nbviewer.jupyter.org/github/geckolml/CursoPython_Pygame/blob/master/5Proyectos.ipynb)
 
 ## Bibliografía 
 * Dr Paul Vincent Craven, Program Arcade Games With Python and Pygame, Fourth Edition, Appress 
